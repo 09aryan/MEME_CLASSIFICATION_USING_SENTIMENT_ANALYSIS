@@ -1,5 +1,12 @@
 # Memotion Analysis: Meme Sentiment Classification
 
+## Contributors
+Tanush Korgaokar
+Aryan Kumar
+Ayush Jain
+Kashish Lonpande
+Dhairyashil Shengde
+
 ## Abstract
 
 This project delves into meme sentiment classification, employing machine learning and deep learning models to analyze and categorize sentiments expressed in meme content. The dataset comprises 6992 meme images sourced from Kaggle, providing a diverse collection with five distinct sentiment labels—Very Positive, Positive, Neutral, Negative, and Very Negative. The multilabel nature of the dataset allows for a nuanced understanding of sentiments, capturing a spectrum of emotions and opinions in the images.
